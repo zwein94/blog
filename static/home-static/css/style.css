@@ -1,0 +1,26 @@
+.single_post{
+  width: 100%;
+}
+.banner{
+  width: 100%;
+}
+.blog_form{
+  width: 100%;
+}
+.message_div{
+  width: 80%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.messages{
+  background-color: black;
+  color: aliceblue;
+  list-style-type: none;
+}
+.messages li{
+  padding: 15px;
+}
+.card{
+  margin-top: 10px;
+}
